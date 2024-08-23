@@ -1,0 +1,16 @@
+
+.jokes {
+    background-color: rgb(166, 167, 170);
+    width: auto;
+    padding:25px 25px 5px 25px;
+}
+
+.button {
+    margin: 20px 0;
+    color: white;
+    background-color: rgb(15, 214, 8);
+    
+}
+.button:hover {
+    background-color: rgb(40, 167, 40);
+}
