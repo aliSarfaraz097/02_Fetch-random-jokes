@@ -1,13 +1,13 @@
 
 import './App.css';
-import Jokes from './Jokes.jsx';
+// import Jokes from './Jokes.jsx';
 
 function App() {
   
   return (
     <>
       <Jokes />
-    </>
+     </>
   );
 }
 
